@@ -3,8 +3,10 @@ In this project we analyse the NYC 311 CSV Format Data Set and apply the tranfor
 
 ## Requirments
 Apache Spark and PySpark installed.
+
 Elasticsearch set up and running.
 
 ### Packages
 pip install pyspark
+
 pip install elasticsearch
